@@ -24,5 +24,5 @@ def generate_message(e):
 {name} is {age} years old and currently studying at {school}. 
 This profile was generated using Python\'s string formatting features.
 """
-
-document.getElementById("message").innerText = prof
+    
+    document.getElementById("message").innerText = prof
