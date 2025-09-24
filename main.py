@@ -12,7 +12,7 @@ def generate_message(e):
     age = document.getElementById("age").value
     school = document.getElementById("school").value
     
-    # Use multiline string
+    # Use multiline string with escape characters
     prof = f"""{title}
 {separator}
 {profile_label}
